@@ -1,5 +1,3 @@
-![Screenshot 2024-07-31 134610](https://github.com/user-attachments/assets/0b56360a-e08c-4b82-b797-3032b72bd754)
-
 # Simple Cloudflare Tools
 
 **DNS Management Tool** ini dibuat untuk memudahkan saya sendiri dalam manajemen DNS domain yang terkoneksi ke Cloudflare, karena mempunyai banyak akun Cloudflare yang berbeda.
@@ -47,4 +45,4 @@
    **Wajib Limit Akses** : Batasi akses ke aplikasi menggunakan IP, HTTP auth, atau aturan Cloudflare untuk meningkatkan keamanan.
 
 ## Tag
-Cloudflare DNS Management, Multi Account Cloudflare, DNS Record Management, CRUD DNS Records, Zone Search Cloudflare, DNS Records Search, Bulk Delete DNS Records, Cloudflare API Integration, DNS Management Tool, Domain Name System Manager, Cloudflare Zone Management, PHP DNS Management Tool, Cloudflare Account Management, Web Hosting DNS, Cloudflare DNS API, DNS Record CRUD Operations, DNS Security, DNS Tools, Domain Management, Server Management
+Cloudflare DNS Management, Multi Account Cloudflare, DNS Record Management, CRUD DNS Records, Zone Search Cloudflare, DNS Records Search, Bulk Delete DNS Records, Cloudflare API Integration, DNS Management Tool, Cloudflare Zone Management, PHP DNS Management Tool, Cloudflare Account Management, Cloudflare DNS API, DNS Record CRUD, DNS Tools, Domain Management,
