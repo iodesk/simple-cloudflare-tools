@@ -1,6 +1,6 @@
 # Simple Cloudflare Tools
 
-**DNS Management Tool** ini dibuat untuk memudahkan saya sendiri dalam manajemen DNS domain yang terkoneksi ke Cloudflare, karena mempunyai banyak akun Cloudflare yang berbeda.
+**DNS Management Tool** ini yang penuh celah ini 😂 dibuat untuk memudahkan saya sendiri dalam manajemen DNS domain yang terkoneksi ke Cloudflare, karena mempunyai banyak akun Cloudflare yang berbeda.
 
 🔗 **Demo**: [demo-scf.utas.cc](https://demo-scf.utas.cc) (Full featured demo)
 
